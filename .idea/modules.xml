@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch00_leetcode/ch00_leetcode.iml" filepath="$PROJECT_DIR$/ch00_leetcode/ch00_leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch01_复杂度/ch01_复杂度.iml" filepath="$PROJECT_DIR$/ch01_复杂度/ch01_复杂度.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02_动态数组/ch02_动态数组.iml" filepath="$PROJECT_DIR$/ch02_动态数组/ch02_动态数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03_链表/ch03_链表.iml" filepath="$PROJECT_DIR$/ch03_链表/ch03_链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04_栈/ch04_栈.iml" filepath="$PROJECT_DIR$/ch04_栈/ch04_栈.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05_队列/ch05_队列.iml" filepath="$PROJECT_DIR$/ch05_队列/ch05_队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06_二叉搜索树/ch06_二叉搜索树.iml" filepath="$PROJECT_DIR$/ch06_二叉搜索树/ch06_二叉搜索树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07_AVL树/ch07_AVL树.iml" filepath="$PROJECT_DIR$/ch07_AVL树/ch07_AVL树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08_红黑树/ch08_红黑树.iml" filepath="$PROJECT_DIR$/ch08_红黑树/ch08_红黑树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09_集合/ch09_集合.iml" filepath="$PROJECT_DIR$/ch09_集合/ch09_集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10_映射/ch10_映射.iml" filepath="$PROJECT_DIR$/ch10_映射/ch10_映射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_哈希表/ch11_哈希表.iml" filepath="$PROJECT_DIR$/ch11_哈希表/ch11_哈希表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch12_堆/ch12_堆.iml" filepath="$PROJECT_DIR$/ch12_堆/ch12_堆.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch13_Trie/ch13_Trie.iml" filepath="$PROJECT_DIR$/ch13_Trie/ch13_Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch14_排序/ch14_排序.iml" filepath="$PROJECT_DIR$/ch14_排序/ch14_排序.iml" />
+    </modules>
+  </component>
+</project>
